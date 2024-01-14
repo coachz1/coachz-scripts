@@ -13,6 +13,7 @@
  * REAPER: 7.x
  * Extensions: None
  * Version: 1.0
+ * Notification:  I have used code from many sources to make my scripts.  If any of my code is from your code, let me know so I can give due credit !!
 --]]
  
 --[[
