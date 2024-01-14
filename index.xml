@@ -1,6 +1,11 @@
-<REAPER_PACK>
-    <REAPER_PLUGIN_LIST>
-        <REAPER_PLUGIN url="freezing/index.xml" />
-        <!-- Add more REAPER_PLUGIN entries for additional plugins -->
-    </REAPER_PLUGIN_LIST>
-</REAPER_PACK>
+<?xml version="1.0" encoding="utf-8"?>
+<index version="1" name="‘coachz-scripts’" commit="277dee4c83b9ae3d6b89b83b7d872e1776cacb6c">
+  <category name="freezing">
+    <reapack name="cz_count_tracks_to_freeze.lua" type="script" desc="Count tracks needing to Freeze">
+      <version name="1.0" author="coachz" time="2024-01-14T16:15:19Z">
+        <changelog><![CDATA[+ Initial Release]]></changelog>
+        <source main="main">https://github.com/coachz1/coachz-scripts/raw/277dee4c83b9ae3d6b89b83b7d872e1776cacb6c/freezing/cz_count_tracks_to_freeze.lua</source>
+      </version>
+    </reapack>
+  </category>
+</index>
