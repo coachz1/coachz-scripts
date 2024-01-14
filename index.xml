@@ -1,0 +1,6 @@
+<REAPER_PACK>
+    <REAPER_PLUGIN_LIST>
+        <REAPER_PLUGIN url="freezing/index.xml" />
+        <!-- Add more REAPER_PLUGIN entries for additional plugins -->
+    </REAPER_PLUGIN_LIST>
+</REAPER_PACK>
