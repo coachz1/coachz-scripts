@@ -5,7 +5,7 @@
  * Screenshot: 
  * Author: coachz
  * Repository: GitHub > coachz1 > coachz-scripts
- * Repository URI: https://raw.githubusercontent.com/coachz1/coachz-scripts/main/index.xml
+ * Repository URI: https://github.com/coachz1/coachz-scripts/raw/main/index.xml
  * File URI: 
  * License: MIT
  * Forum Thread: 
@@ -15,13 +15,6 @@
  * Version: 1.0
  * Notification:  I have used code from many sources to make my scripts.  If any of my code is from your code, let me know so I can give due credit !!
 --]]
- 
---[[
- * Changelog:
- * v1.0 (2024-01-14)
-	+ Initial Release
---]]
-
 --[[ ----- INSTRUCTIONS ====>
 
 Run script to display a count of tracks that can be frozen
