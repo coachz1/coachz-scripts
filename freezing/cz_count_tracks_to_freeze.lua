@@ -5,9 +5,9 @@
  * Screenshot: 
  * Author: coachz
  * Repository: GitHub > coachz1 > coachz-scripts
- * Repository URI: https://github.com/coachz1/coachz-scripts/raw/main/Index.xml
+ * Repository URI: https://raw.githubusercontent.com/coachz1/coachz-scripts/main/index.xml
  * File URI: 
- * Licence: MIT
+ * License: MIT
  * Forum Thread: 
  * Forum Thread URI: 
  * REAPER: 7.x
