@@ -7,11 +7,17 @@
         <changelog><![CDATA[Initial release]]></changelog>
       </version>
     </reapack>
+
     <reapack name="cz_set_grid_snap_spacing_1.lua" type="script" desc="Set Grid Snap Spacing 1">
       <version name="1.0" author="coachz" time="2026-08-01T13:40:00Z">
         <source>https://raw.githubusercontent.com/coachz1/coachz-scripts/main/cz_set_grid_snap_spacing_1.lua</source>
         <changelog><![CDATA[Initial release]]></changelog>
       </version>
+      <metadata>
+        <description><![CDATA[
+Running this script sets Grid Snap Spacing to 1.
+]]></description>
+      </metadata>
     </reapack>
   </category>
 </index>
