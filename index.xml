@@ -14,9 +14,9 @@
         <changelog><![CDATA[Initial release]]></changelog>
       </version>
       <metadata>
-        <description><![CDATA[
-Running this script sets Grid Snap Spacing to 1. 
-]]></description>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 Arial;}}
+\f0\fs20 Running this script sets Grid Snap Spacing to 1.\par
+}]]></description>
       </metadata>
     </reapack>
   </category>
